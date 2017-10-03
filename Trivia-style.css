@@ -1,0 +1,17 @@
+body{
+	background-image: url(friends.jpeg);
+	background-repeat: repeat;
+	background-position: bottom;
+	text-align: center;
+}
+
+
+.text-muted{
+	color: blue;
+}
+.last-seconds{
+  color: red;
+}
+.option{
+  margin: 15px;
+}
